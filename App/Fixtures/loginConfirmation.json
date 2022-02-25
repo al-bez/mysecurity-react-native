@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "data": {
+    "patient_id": "120",
+    "patient_code": "7609001619",
+    "last_name": "ZZZZ",
+    "first_name": "JULIE",
+    "gender": "F",
+    "birthdate": "19300101",
+    "city": "PARIS",
+    "address": "PARIS",
+    "mobile": "009613433247",
+    "NISEJOUR": "6894"
+  }
+}
